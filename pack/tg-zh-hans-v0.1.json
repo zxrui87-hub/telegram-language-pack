@@ -1,0 +1,20 @@
+{
+  "name": "简体中文（实验版）",
+  "version": "0.1",
+  "updated": "2026-11-20",
+  "note": "Text-only language pack. Contains no executable code.",
+  "strings": {
+    "lng_settings": "设置",
+    "lng_language": "语言",
+    "lng_chat": "聊天",
+    "lng_contacts": "联系人",
+    "lng_search": "搜索",
+    "lng_send": "发送",
+    "lng_cancel": "取消",
+    "lng_ok": "确定",
+    "lng_privacy": "隐私与安全",
+    "lng_notifications": "通知",
+    "lng_storage": "数据与存储",
+    "lng_devices": "设备"
+  }
+}
